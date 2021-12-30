@@ -1,0 +1,3 @@
+Name: Lois Lane
+Age: 25
+Favorite color: Black
